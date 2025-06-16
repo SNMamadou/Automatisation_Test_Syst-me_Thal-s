@@ -1,4 +1,10 @@
-Il faut simplement lancer le script : ./run_pi.sh
+Il faut avoir d'installer :  
+- Virtualbox
+- Vagrant
+- bc : Indispensable pour faire des calculs de nombres flottant en bash
+
+
+Pour exécuter le programme il faut simplement lancer le script : ./run_pi.sh
 
 Le fichier Vagrant contient la configuration des vms
 
